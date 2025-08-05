@@ -1,0 +1,10 @@
+{
+  "sender": "execsonydadc.com",
+  "recipient": "microsoft.com",
+  "subject": "New Hire Notification",
+  "body": "Symbolic routing initiated for new hire at Sony/Microsoft laptop house. Please verify hash and governance node.",
+  "hash": "abc123xyz",
+  "routingNode": "sony-ms-laptop-house",
+  "timestamp": "2025-08-05T00:03:00Z"
+}
+

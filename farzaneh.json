@@ -1,0 +1,43 @@
+{
+  "sender": "https://github.com/Farzanehsedarati610/microsoft",
+  "recipient": "microsoft.com",
+  "subject": "New Hire Onboarding – Farzaneh Sedarati",
+  "body": "Symbolic routing initiated for onboarding Farzaneh Sedarati as Top Executive Boss under joint governance of Sony Pictures and Microsoft Laptop House. Remote work setup required with full admin access and enterprise-grade hardware/software.",
+  "personal": {
+    "name": "Farzaneh Sedarati",
+    "dob": "1990-04-26",
+    "ssn": "307089055",
+    "address": "1311 Liberty Ave, Terre Haute, IN 47807",
+    "phone": "812-236-4101"
+  },
+  "position": {
+    "title": "Top Executive Boss",
+    "startDate": "2025-08-05",
+    "salary": "42000000",
+    "remote": true,
+    "hardware": {
+      "laptop": "Microsoft Surface or equivalent",
+      "wifiCard": true,
+      "storage": "Maximum available",
+      "memory": "Maximum available"
+    },
+    "software": {
+      "apps": "All Microsoft Business Apps",
+      "adminAccess": true
+    }
+  },
+  "routing": {
+    "routingNumber": "274971729",
+    "accountNumber": "200954710",
+    "governance": "symbolic",
+    "validation": "hash-based",
+    "timestamp": "2025-08-05T00:12:00Z"
+  },
+  "emailSetup": {
+    "domain": "execsonydadc.com",
+    "email": "farzaneh@execsonydadc.com",
+    "password": "to-be-generated",
+    "directory": "new-hire/farzaneh"
+  }
+}
+
